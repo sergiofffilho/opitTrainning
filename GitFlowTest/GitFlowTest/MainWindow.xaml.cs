@@ -20,6 +20,8 @@ namespace GitFlowTest
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        //Peralta, aprende a falar pra fora!!
         public MainWindow()
         {
             InitializeComponent();
